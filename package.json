@@ -1,0 +1,22 @@
+{
+  "name": "solana-ecosystem-tracker",
+  "version": "1.0.0",
+  "description": "Automated daily time-series telemetry tracker for the Solana blockchain ecosystem (TPS, TVL, price, epoch, and volume) powered by GitHub Actions.",
+  "type": "module",
+  "main": "scripts/tracker.mjs",
+  "scripts": {
+    "start": "node scripts/tracker.mjs",
+    "track": "node scripts/tracker.mjs"
+  },
+  "keywords": [
+    "solana",
+    "web3",
+    "git-scraping",
+    "github-actions",
+    "defi",
+    "telemetry",
+    "crypto-tracker"
+  ],
+  "author": "Md Alqamar Ziaul <https://github.com/alqamarzz>",
+  "license": "MIT"
+}
