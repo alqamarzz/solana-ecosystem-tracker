@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit and Push Daily Snapshot
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "alqamarzz"
+          git config --global user.email "alqamarziaul12@gmail.com"
           
           git add -A
           
