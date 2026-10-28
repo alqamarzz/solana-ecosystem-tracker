@@ -502,5 +502,26 @@
       "estimatedTps": 2153,
       "nonVoteTps": 2153
     }
+  },
+  {
+    "date": "2026-10-28",
+    "timestamp": "2026-10-28T03:19:40.125Z",
+    "market": {
+      "priceUsd": 101.56,
+      "change24hPct": 1.65,
+      "marketCapUsd": 59923366039,
+      "volume24hUsd": 2009590727
+    },
+    "defi": {
+      "tvlUsd": 5743344216
+    },
+    "network": {
+      "epoch": 1070,
+      "slotHeight": 462321693,
+      "epochProgressPct": 18.91,
+      "totalTransactions": 564090833091,
+      "estimatedTps": 1567,
+      "nonVoteTps": 1567
+    }
   }
 ]
