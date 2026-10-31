@@ -9,19 +9,19 @@
 
 ---
 
-## 📊 Live Metrics Snapshot (Updated: Fri, 30 Oct 2026 03:46:10 GMT)
+## 📊 Live Metrics Snapshot (Updated: Sat, 31 Oct 2026 03:30:14 GMT)
 
 | Metric | Latest Value | Context |
 |---|---|---|
-| **SOL Price** | **$96.74** | 24h Change: `-2.81%` |
-| **Solana DeFi TVL** | **$5.36B** | Total Value Locked across Solana protocols |
-| **Market Capitalization** | **$57.08B** | Circulating market value |
-| **24h Trading Volume** | **$5.46B** | Global 24h SOL volume |
-| **Estimated Network TPS** | **1,861 TPS** | Non-vote TPS: `~1,861 TPS` |
-| **Current Epoch** | **Epoch #1072** | Progress: `7.96%` |
-| **Slot Height** | **#463.14M** | Current absolute block height |
-| **Lifetime Network Txs** | **564.41B** | Total lifetime processed instructions |
-| **Historical Snapshots Logged** | **27 entries** | Stored in [`data/history.json`](./data/history.json) |
+| **SOL Price** | **$96.81** | 24h Change: `+0.9%` |
+| **Solana DeFi TVL** | **$5.47B** | Total Value Locked across Solana protocols |
+| **Market Capitalization** | **$57.12B** | Circulating market value |
+| **24h Trading Volume** | **$3.24B** | Global 24h SOL volume |
+| **Estimated Network TPS** | **1,542 TPS** | Non-vote TPS: `~1,542 TPS` |
+| **Current Epoch** | **Epoch #1073** | Progress: `0.4%` |
+| **Slot Height** | **#463.54M** | Current absolute block height |
+| **Lifetime Network Txs** | **564.55B** | Total lifetime processed instructions |
+| **Historical Snapshots Logged** | **28 entries** | Stored in [`data/history.json`](./data/history.json) |
 
 ---
 
