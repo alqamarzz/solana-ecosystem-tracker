@@ -1,21 +1,21 @@
 {
-  "date": "2026-11-03",
-  "timestamp": "2026-11-03T04:46:17.575Z",
+  "date": "2026-11-04",
+  "timestamp": "2026-11-04T04:10:51.501Z",
   "market": {
-    "priceUsd": 92.21,
-    "change24hPct": -3.04,
-    "marketCapUsd": 54421627484,
-    "volume24hUsd": 2571292941
+    "priceUsd": 91.53,
+    "change24hPct": -0.51,
+    "marketCapUsd": 54025499524,
+    "volume24hUsd": 2355958785
   },
   "defi": {
-    "tvlUsd": 5428537821
+    "tvlUsd": 5388476395
   },
   "network": {
-    "epoch": 1075,
-    "slotHeight": 464769207,
-    "epochProgressPct": 85.46,
-    "totalTransactions": 564963911140,
-    "estimatedTps": 1544,
-    "nonVoteTps": 1544
+    "epoch": 1076,
+    "slotHeight": 465162627,
+    "epochProgressPct": 76.53,
+    "totalTransactions": 565124771483,
+    "estimatedTps": 2323,
+    "nonVoteTps": 2323
   }
 }
